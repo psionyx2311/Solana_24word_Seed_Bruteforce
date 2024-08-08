@@ -62,9 +62,7 @@
   <li>All discovered public keys will be saved to <code>discovered_keys.txt</code>.</li>
 </ul>
 
-<h2>License</h2>
 
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
 
 <h2>Disclaimer</h2>
 
