@@ -36,7 +36,7 @@
   <li>Run the script with:</li>
 </ol>
 
-<p><code>python script_name.py</code></p>
+<p><code>python solseedfarmer.py</code></p>
 
 <h4>On Linux</h4>
 
@@ -46,7 +46,7 @@
   <li>Run the script with:</li>
 </ol>
 
-<p><code>python3 script_name.py</code></p>
+<p><code>python3 solseedfarmer.py</code></p>
 
 <h3>Input</h3>
 
