@@ -19,10 +19,9 @@
 
 <h2>Usage</h2>
 
-<h3>Prepare Your Environment</h3>
+<h3>Prepare Your Public Keys in addresses.txt</h3>
 
 <ol>
-  <li><strong>Wordlist:</strong> Create a file named <code>words.txt</code> containing a list of possible words for the seed phrase (one word per line).</li>
   <li><strong>Public Keys:</strong> Create a file named <code>addresses.txt</code> containing the public keys to be matched (one public key per line).</li>
 </ol>
 
