@@ -62,7 +62,8 @@
   <li>All discovered public keys will be saved to <code>discovered_keys.txt</code>.</li>
 </ul>
 
-
+<h3>Optional</h3>
+If you would like to save time checking potential recovered public keys for balance in discovered_keys.txt, feel free to run solbalance.py and it will one-by-one check each address in the text file for balance.  If an address has a flat-0 amount of SOL, chances are it's not your recovery address or even ever used.
 
 <h2>Disclaimer</h2>
 
